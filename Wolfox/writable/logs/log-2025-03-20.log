@@ -1,0 +1,1672 @@
+INFO - 2025-03-20 05:53:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 05:53:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 05:53:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 05:53:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 05:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:03:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:04:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:04:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:04:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:04:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:04:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:07:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:07:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:07:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:07:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:07:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:10:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:15:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:18:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:20:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:20:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:22:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:23:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:23:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:25:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:35:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:37:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:40:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:46:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:46:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 06:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:00:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-03-20 07:00:35 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH\Views\Admin\Admission\edit.php on line 190.
+ 1 APPPATH\Views\Admin\Admission\edit.php(190): strtotime(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/edit', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(358): view('/Admin/Admission/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->edit('5')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-03-20 07:00:35 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH\Views\Admin\Admission\edit.php on line 190.
+ 1 APPPATH\Views\Admin\Admission\edit.php(190): strtotime(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/edit', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(358): view('/Admin/Admission/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->edit('5')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:00:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-03-20 07:00:51 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH\Views\Admin\Admission\edit.php on line 190.
+ 1 APPPATH\Views\Admin\Admission\edit.php(190): strtotime(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/edit', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(358): view('/Admin/Admission/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->edit('5')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-03-20 07:00:51 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH\Views\Admin\Admission\edit.php on line 190.
+ 1 APPPATH\Views\Admin\Admission\edit.php(190): strtotime(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/edit', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(358): view('/Admin/Admission/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->edit('5')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:01:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-03-20 07:01:13 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH\Views\Admin\Admission\edit.php on line 190.
+ 1 APPPATH\Views\Admin\Admission\edit.php(190): strtotime(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/edit', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(358): view('/Admin/Admission/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->edit('5')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-03-20 07:01:13 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH\Views\Admin\Admission\edit.php on line 190.
+ 1 APPPATH\Views\Admin\Admission\edit.php(190): strtotime(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/edit', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(358): view('/Admin/Admission/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->edit('5')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-03-20 07:02:06 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH\Views\Admin\Admission\edit.php on line 190.
+ 1 APPPATH\Views\Admin\Admission\edit.php(190): strtotime(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/edit', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(358): view('/Admin/Admission/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->edit('5')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-03-20 07:02:06 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH\Views\Admin\Admission\edit.php on line 190.
+ 1 APPPATH\Views\Admin\Admission\edit.php(190): strtotime(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/edit', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(358): view('/Admin/Admission/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->edit('5')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:05:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 07:05:26 --> ErrorException: Undefined variable $BatchData
+[Method: GET, Route: Admin/Admission/documentList]
+in APPPATH\Views\Admin\Admission\documentlist.php on line 42.
+ 1 APPPATH\Views\Admin\Admission\documentlist.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $BatchData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php', 42)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Admin/Admission/documentlist', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(1168): view('Admin/Admission/documentlist', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->documentlist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 07:07:29 --> ErrorException: Undefined variable $BatchData
+[Method: GET, Route: Admin/Admission/documentList]
+in APPPATH\Views\Admin\Admission\documentlist.php on line 42.
+ 1 APPPATH\Views\Admin\Admission\documentlist.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $BatchData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php', 42)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Admin/Admission/documentlist', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(1168): view('Admin/Admission/documentlist', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->documentlist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:07:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:07:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 07:07:45 --> ErrorException: Undefined variable $BatchData
+[Method: GET, Route: Admin/Admission/documentList]
+in APPPATH\Views\Admin\Admission\documentlist.php on line 42.
+ 1 APPPATH\Views\Admin\Admission\documentlist.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $BatchData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php', 42)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Admin/Admission/documentlist', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(1168): view('Admin/Admission/documentlist', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->documentlist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:08:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 07:08:29 --> ErrorException: Undefined variable $data
+[Method: GET, Route: Admin/Admission/documentList]
+in APPPATH\Views\Admin\Admission\documentlist.php on line 42.
+ 1 APPPATH\Views\Admin\Admission\documentlist.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php', 42)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Admin/Admission/documentlist', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(1168): view('Admin/Admission/documentlist', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->documentlist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:08:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 07:08:49 --> ErrorException: Undefined variable $BatchData
+[Method: GET, Route: Admin/Admission/documentList]
+in APPPATH\Views\Admin\Admission\documentlist.php on line 42.
+ 1 APPPATH\Views\Admin\Admission\documentlist.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $BatchData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php', 42)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Admin/Admission/documentlist', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(1168): view('Admin/Admission/documentlist', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->documentlist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:12:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 07:12:16 --> ErrorException: Undefined variable $BatchData
+[Method: GET, Route: Admin/Admission/documentList]
+in APPPATH\Views\Admin\Admission\documentlist.php on line 42.
+ 1 APPPATH\Views\Admin\Admission\documentlist.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $BatchData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php', 42)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Admin/Admission/documentlist', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(1168): view('Admin/Admission/documentlist', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->documentlist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:13:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:13:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 07:13:52 --> ErrorException: Undefined variable $BatchData
+[Method: GET, Route: Admin/Admission/documentList]
+in APPPATH\Views\Admin\Admission\documentlist.php on line 43.
+ 1 APPPATH\Views\Admin\Admission\documentlist.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $BatchData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Admin/Admission/documentlist', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(1168): view('Admin/Admission/documentlist', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->documentlist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:13:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 07:13:58 --> ErrorException: Undefined variable $BatchData
+[Method: GET, Route: Admin/Admission/documentList]
+in APPPATH\Views\Admin\Admission\documentlist.php on line 43.
+ 1 APPPATH\Views\Admin\Admission\documentlist.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $BatchData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Admin/Admission/documentlist', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(1168): view('Admin/Admission/documentlist', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->documentlist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 07:14:01 --> ErrorException: Undefined variable $BatchData
+[Method: GET, Route: Admin/Admission/documentList]
+in APPPATH\Views\Admin\Admission\documentlist.php on line 43.
+ 1 APPPATH\Views\Admin\Admission\documentlist.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $BatchData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Admin/Admission/documentlist', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(1168): view('Admin/Admission/documentlist', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->documentlist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:14:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 07:14:02 --> ErrorException: Undefined variable $BatchData
+[Method: GET, Route: Admin/Admission/documentList]
+in APPPATH\Views\Admin\Admission\documentlist.php on line 43.
+ 1 APPPATH\Views\Admin\Admission\documentlist.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $BatchData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Admin/Admission/documentlist', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(1168): view('Admin/Admission/documentlist', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->documentlist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:14:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 07:14:03 --> ErrorException: Undefined variable $BatchData
+[Method: GET, Route: Admin/Admission/documentList]
+in APPPATH\Views\Admin\Admission\documentlist.php on line 43.
+ 1 APPPATH\Views\Admin\Admission\documentlist.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $BatchData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Admin/Admission/documentlist', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(1168): view('Admin/Admission/documentlist', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->documentlist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:16:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:17:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 07:23:26 --> ErrorException: Undefined variable $StudentData
+[Method: GET, Route: Admin/Admission/documentfilter]
+in APPPATH\Controllers\AdmissionMaster.php on line 1167.
+ 1 APPPATH\Controllers\AdmissionMaster.php(1167): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $StudentData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Controllers\\AdmissionMaster.php', 1167)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->documentfilter()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 07:25:39 --> ErrorException: Undefined variable $BatchData
+[Method: GET, Route: Admin/Admission/documentList]
+in APPPATH\Views\Admin\Admission\documentlist.php on line 43.
+ 1 APPPATH\Views\Admin\Admission\documentlist.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $BatchData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Admin/Admission/documentlist', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(1142): view('Admin/Admission/documentlist', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->documentlist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:25:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 07:25:41 --> ErrorException: Undefined variable $BatchData
+[Method: GET, Route: Admin/Admission/documentList]
+in APPPATH\Views\Admin\Admission\documentlist.php on line 43.
+ 1 APPPATH\Views\Admin\Admission\documentlist.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $BatchData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Admin/Admission/documentlist', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(1142): view('Admin/Admission/documentlist', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->documentlist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:25:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:25:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 07:25:51 --> ErrorException: Undefined variable $BatchData
+[Method: GET, Route: Admin/Admission/documentList]
+in APPPATH\Views\Admin\Admission\documentlist.php on line 43.
+ 1 APPPATH\Views\Admin\Admission\documentlist.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $BatchData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Admin/Admission/documentlist', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(1142): view('Admin/Admission/documentlist', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->documentlist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:27:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 07:27:55 --> ErrorException: Undefined variable $BatchData
+[Method: GET, Route: Admin/Admission/documentList]
+in APPPATH\Views\Admin\Admission\documentlist.php on line 43.
+ 1 APPPATH\Views\Admin\Admission\documentlist.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $BatchData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\documentlist.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Admin/Admission/documentlist', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(1142): view('Admin/Admission/documentlist', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->documentlist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:29:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:31:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:31:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:31:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:35:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:35:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:36:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:38:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:41:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:41:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:47:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:51:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-20 07:51:16 --> mysqli_sql_exception: Unknown column 'created_at' in 'order clause' in C:\xampp\htdocs\Wolfox\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\Wolfox\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\Wolfox\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\Wolfox\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\Wolfox\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\Wolfox\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Wolfox\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\Wolfox\app\Controllers\StudentNotification.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\Wolfox\system\CodeIgniter.php(933): App\Controllers\StudentNotification->notifications()
+#8 C:\xampp\htdocs\Wolfox\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentNotification))
+#9 C:\xampp\htdocs\Wolfox\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Wolfox\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Wolfox\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\Wolfox\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+CRITICAL - 2025-03-20 07:51:16 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'created_at' in 'order clause'
+[Method: GET, Route: student/notifications]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `notification`
+WHERE `batch` = :batch:
+ORDER BY `created_at` DESC', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\StudentNotification.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentNotification->notifications()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentNotification))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-20 07:51:16 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'created_at' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `notification`
+WHERE `batch` = \'1\'
+ORDER BY `created_at` DESC')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `notification`
+WHERE `batch` = \'1\'
+ORDER BY `created_at` DESC')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `notification`
+WHERE `batch` = :batch:
+ORDER BY `created_at` DESC', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\StudentNotification.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentNotification->notifications()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentNotification))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-20 07:51:16 --> [Caused by] mysqli_sql_exception: Unknown column 'created_at' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `notification`
+WHERE `batch` = \'1\'
+ORDER BY `created_at` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `notification`
+WHERE `batch` = \'1\'
+ORDER BY `created_at` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `notification`
+WHERE `batch` = \'1\'
+ORDER BY `created_at` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `notification`
+WHERE `batch` = :batch:
+ORDER BY `created_at` DESC', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\StudentNotification.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentNotification->notifications()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentNotification))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 07:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:51:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:52:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:53:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 07:53:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:03:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:03:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:05:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:10:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:10:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:10:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:16:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:20:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:53:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:53:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:57:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:57:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 08:59:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:00:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:02:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:03:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:04:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:05:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:05:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:06:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:06:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:07:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:07:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:09:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:13:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:14:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:14:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:19:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:21:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:28:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:30:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:30:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:32:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:37:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 09:37:54 --> ErrorException: Undefined variable $row
+[Method: GET, Route: Student/birthday]
+in APPPATH\Views\Student\birthday.php on line 83.
+ 1 APPPATH\Views\Student\birthday.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\birthday.php', 83)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\birthday.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/student/birthday', [], true)
+ 5 APPPATH\Controllers\StudentLoginMaster.php(700): view('/student/birthday', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentLoginMaster->Birthday()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentLoginMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 09:38:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 09:38:46 --> ErrorException: Undefined variable $row
+[Method: GET, Route: Student/birthday]
+in APPPATH\Views\Student\birthday.php on line 4.
+ 1 APPPATH\Views\Student\birthday.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\birthday.php', 4)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\birthday.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/student/birthday', [], true)
+ 5 APPPATH\Controllers\StudentLoginMaster.php(700): view('/student/birthday', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentLoginMaster->Birthday()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentLoginMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 09:39:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 09:39:32 --> ErrorException: Undefined variable $row
+[Method: GET, Route: Student/birthday]
+in APPPATH\Views\Student\birthday.php on line 62.
+ 1 APPPATH\Views\Student\birthday.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\birthday.php', 62)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\birthday.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/student/birthday', [], true)
+ 5 APPPATH\Controllers\StudentLoginMaster.php(700): view('/student/birthday', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentLoginMaster->Birthday()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentLoginMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 09:41:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 09:41:03 --> ErrorException: Undefined variable $row
+[Method: GET, Route: Student/birthday]
+in APPPATH\Views\Student\birthday.php on line 18.
+ 1 APPPATH\Views\Student\birthday.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\birthday.php', 18)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\birthday.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/student/birthday', [], true)
+ 5 APPPATH\Controllers\StudentLoginMaster.php(700): view('/student/birthday', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentLoginMaster->Birthday()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentLoginMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 09:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 09:41:52 --> ErrorException: Undefined variable $row
+[Method: GET, Route: Student/birthday]
+in APPPATH\Views\Student\birthday.php on line 64.
+ 1 APPPATH\Views\Student\birthday.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\birthday.php', 64)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\birthday.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/student/birthday', [], true)
+ 5 APPPATH\Controllers\StudentLoginMaster.php(700): view('/student/birthday', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentLoginMaster->Birthday()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentLoginMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 09:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:43:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:45:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:46:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:46:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:47:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:47:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:47:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:47:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:48:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:53:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 09:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:02:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 10:02:18 --> ErrorException: Undefined variable $BatchData
+[Method: GET, Route: Student/mentor]
+in APPPATH\Views\Student\mentor.php on line 429.
+ 1 APPPATH\Views\Student\mentor.php(429): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $BatchData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentor.php', 429)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/Mentor', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(12): view('/Student/Mentor')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 10:02:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:03:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:03:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:03:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 10:03:36 --> ErrorException: Undefined variable $row
+[Method: GET, Route: Student/mentor]
+in APPPATH\Views\Student\mentor.php on line 430.
+ 1 APPPATH\Views\Student\mentor.php(430): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentor.php', 430)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/Mentor', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(12): view('/Student/Mentor')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 10:03:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:04:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:04:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:04:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:08:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:17:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:17:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 10:17:23 --> ErrorException: Undefined array key "collegeid"
+[Method: GET, Route: Student/mentor]
+in APPPATH\Views\Student\mentor.php on line 430.
+ 1 APPPATH\Views\Student\mentor.php(430): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "collegeid"', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentor.php', 430)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/Mentor', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(15): view('/Student/Mentor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 10:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 10:18:14 --> ErrorException: Undefined array key "collegeid"
+[Method: GET, Route: Student/mentor]
+in APPPATH\Views\Student\mentor.php on line 430.
+ 1 APPPATH\Views\Student\mentor.php(430): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "collegeid"', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentor.php', 430)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentor.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/Mentor', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(16): view('/Student/Mentor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 10:19:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:19:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:20:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:20:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:20:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-03-20 10:20:19 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH\Views\Admin\Admission\form.php on line 190.
+ 1 APPPATH\Views\Admin\Admission\form.php(190): strtotime(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\form.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/form', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(37): view('/Admin/Admission/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-03-20 10:20:19 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH\Views\Admin\Admission\form.php on line 190.
+ 1 APPPATH\Views\Admin\Admission\form.php(190): strtotime(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\form.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/form', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(37): view('/Admin/Admission/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 10:28:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:28:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:29:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:30:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:51:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 10:51:46 --> ErrorException: Undefined variable $request
+[Method: POST, Route: Student/mentorsave]
+in APPPATH\Controllers\MentorMaster.php on line 22.
+ 1 APPPATH\Controllers\MentorMaster.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $request', 'C:\\xampp\\htdocs\\Wolfox\\app\\Controllers\\MentorMaster.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->save()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 10:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:54:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:54:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:55:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:56:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 10:58:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:10:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:15:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:16:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:16:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:16:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:17:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:17:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:20:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:22:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 11:22:59 --> ErrorException: Undefined variable $i
+[Method: GET, Route: Student/mentorlist]
+in APPPATH\Views\Student\mentorList.php on line 297.
+ 1 APPPATH\Views\Student\mentorList.php(297): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $i', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentorList.php', 297)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentorList.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/mentorList', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(62): view('/Student/mentorList', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->list()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 11:24:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:35:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 11:35:28 --> Error: Object of type CodeIgniter\Session\Session is not callable
+[Method: GET, Route: Student/mentorlist]
+in APPPATH\Controllers\MentorMaster.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->list()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 11:37:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 11:37:00 --> Error: Object of type CodeIgniter\Session\Session is not callable
+[Method: GET, Route: Student/mentorlist]
+in APPPATH\Controllers\MentorMaster.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->list()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 11:37:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:41:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:42:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 11:46:07 --> TypeError: CodeIgniter\Database\BaseBuilder::select(): Argument #2 ($escape) must be of type ?bool, string given, called in C:\xampp\htdocs\Wolfox\system\Model.php on line 930
+[Method: GET, Route: Student/mentorlist]
+in SYSTEMPATH\Database\BaseBuilder.php on line 398.
+ 1 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->select('mentor', 'mentor.*')
+ 2 APPPATH\Controllers\MentorMaster.php(65): CodeIgniter\Model->__call('select', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->list()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-20 11:47:09 --> TypeError: CodeIgniter\Database\BaseBuilder::select(): Argument #2 ($escape) must be of type ?bool, string given, called in C:\xampp\htdocs\Wolfox\system\Model.php on line 930
+[Method: GET, Route: Student/mentorlist]
+in SYSTEMPATH\Database\BaseBuilder.php on line 398.
+ 1 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->select('mentor', 'mentor.*, collegename.collegename AS collegename')
+ 2 APPPATH\Controllers\MentorMaster.php(65): CodeIgniter\Model->__call('select', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->list()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 11:49:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 11:51:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 12:01:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 12:09:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 12:12:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 12:12:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 12:22:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-03-20 12:22:24 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH\Views\Admin\Admission\form.php on line 190.
+ 1 APPPATH\Views\Admin\Admission\form.php(190): strtotime(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\form.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/form', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(37): view('/Admin/Admission/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-03-20 12:22:24 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH\Views\Admin\Admission\form.php on line 190.
+ 1 APPPATH\Views\Admin\Admission\form.php(190): strtotime(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\form.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/form', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(37): view('/Admin/Admission/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 12:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 12:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 12:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 12:22:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 12:22:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 12:22:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 12:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 12:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-20 12:25:29 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `ba...' at line 1 in C:\xampp\htdocs\Wolfox\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\Wolfox\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `admissi...', 0)
+#1 C:\xampp\htdocs\Wolfox\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `admissi...')
+#2 C:\xampp\htdocs\Wolfox\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `admissi...')
+#3 C:\xampp\htdocs\Wolfox\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `admissi...', Array, false)
+#4 C:\xampp\htdocs\Wolfox\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Wolfox\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\Wolfox\app\Controllers\AdmissionMaster.php(1078): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\Wolfox\system\CodeIgniter.php(933): App\Controllers\AdmissionMaster->banlist()
+#8 C:\xampp\htdocs\Wolfox\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+#9 C:\xampp\htdocs\Wolfox\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Wolfox\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Wolfox\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\Wolfox\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+CRITICAL - 2025-03-20 12:25:29 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `ba...' at line 1
+[Method: GET, Route: Student/banlist]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = :status:
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\AdmissionMaster.php(1078): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->banlist()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-20 12:25:29 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `ba...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = 4
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = 4
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = :status:
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\AdmissionMaster.php(1078): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->banlist()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-20 12:25:29 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `ba...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = 4
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = 4
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = 4
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = :status:
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\AdmissionMaster.php(1078): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->banlist()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 12:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 12:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:29:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:29:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:29:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-20 15:30:19 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `ba...' at line 1 in C:\xampp\htdocs\Wolfox\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\Wolfox\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `admissi...', 0)
+#1 C:\xampp\htdocs\Wolfox\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `admissi...')
+#2 C:\xampp\htdocs\Wolfox\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `admissi...')
+#3 C:\xampp\htdocs\Wolfox\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `admissi...', Array, false)
+#4 C:\xampp\htdocs\Wolfox\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Wolfox\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\Wolfox\app\Controllers\AdmissionMaster.php(1078): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\Wolfox\system\CodeIgniter.php(933): App\Controllers\AdmissionMaster->banlist()
+#8 C:\xampp\htdocs\Wolfox\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+#9 C:\xampp\htdocs\Wolfox\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Wolfox\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Wolfox\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\Wolfox\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+CRITICAL - 2025-03-20 15:30:19 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `ba...' at line 1
+[Method: GET, Route: Student/banlist]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = :status:
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\AdmissionMaster.php(1078): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->banlist()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-20 15:30:19 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `ba...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = 4
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = 4
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = :status:
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\AdmissionMaster.php(1078): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->banlist()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-20 15:30:19 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `ba...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = 4
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = 4
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = 4
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = :status:
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\AdmissionMaster.php(1078): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->banlist()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 15:32:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:32:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:33:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:33:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-20 15:33:13 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `ba...' at line 1 in C:\xampp\htdocs\Wolfox\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\Wolfox\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `admissi...', 0)
+#1 C:\xampp\htdocs\Wolfox\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `admissi...')
+#2 C:\xampp\htdocs\Wolfox\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `admissi...')
+#3 C:\xampp\htdocs\Wolfox\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `admissi...', Array, false)
+#4 C:\xampp\htdocs\Wolfox\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Wolfox\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\Wolfox\app\Controllers\AdmissionMaster.php(1078): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\Wolfox\system\CodeIgniter.php(933): App\Controllers\AdmissionMaster->banlist()
+#8 C:\xampp\htdocs\Wolfox\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+#9 C:\xampp\htdocs\Wolfox\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Wolfox\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Wolfox\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\Wolfox\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+CRITICAL - 2025-03-20 15:33:13 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `ba...' at line 1
+[Method: GET, Route: Student/banlist]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = :status:
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\AdmissionMaster.php(1078): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->banlist()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-20 15:33:13 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `ba...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = 4
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = 4
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = :status:
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\AdmissionMaster.php(1078): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->banlist()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-20 15:33:13 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `ba...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = 4
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = 4
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = 4
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `admission`., `admission`.`id` AS `studid`, `fee`., `course`.`course`, `course`.`fee`, `batch`.`batchname`, `batch`.`starttime`, `batch`.`endtime`, `branch`.`branchname` AS `branchname`, `collegename`.`collegename` AS `collegename`
+FROM `admission`
+LEFT JOIN `course` ON `course`.`courseid` = `admission`.`courseid`
+LEFT JOIN `batch` ON `batch`.`batchid` = `admission`.`batchid`
+LEFT JOIN `branch` ON `branch`.`id` = `admission`.`branchid`
+LEFT JOIN `collegename` ON `collegename`.`id` = `admission`.`collegeid`
+JOIN `fee` ON `fee`.`sid` = `admission`.`id`
+WHERE `status` = :status:
+GROUP BY `fee`.`sid`
+ORDER BY `admission`.`id` DESC', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\AdmissionMaster.php(1078): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->banlist()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 15:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:34:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:34:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:35:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:35:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:36:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:36:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:36:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:38:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:38:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 15:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 15:46:00 --> ErrorException: Undefined variable $StudentData
+[Method: GET, Route: student/mentoredit/1]
+in APPPATH\Views\Student\mentoredit.php on line 433.
+ 1 APPPATH\Views\Student\mentoredit.php(433): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $StudentData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php', 433)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/mentoredit', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(79): view('/Student/mentoredit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 15:48:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 15:48:17 --> ErrorException: Undefined variable $StudentData
+[Method: GET, Route: student/mentoredit/1]
+in APPPATH\Views\Student\mentoredit.php on line 433.
+ 1 APPPATH\Views\Student\mentoredit.php(433): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $StudentData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php', 433)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/mentoredit', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(86): view('/Student/mentoredit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 15:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 15:48:21 --> ErrorException: Undefined variable $StudentData
+[Method: GET, Route: student/mentoredit/1]
+in APPPATH\Views\Student\mentoredit.php on line 433.
+ 1 APPPATH\Views\Student\mentoredit.php(433): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $StudentData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php', 433)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/mentoredit', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(86): view('/Student/mentoredit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 15:48:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 15:48:36 --> ErrorException: Undefined array key "collegeid"
+[Method: GET, Route: student/mentoredit/1]
+in APPPATH\Views\Student\mentoredit.php on line 433.
+ 1 APPPATH\Views\Student\mentoredit.php(433): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "collegeid"', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php', 433)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/mentoredit', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(86): view('/Student/mentoredit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 15:49:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 15:49:23 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: student/mentoredit/1]
+in APPPATH\Views\Student\mentoredit.php on line 433.
+ 1 APPPATH\Views\Student\mentoredit.php(433): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php', 433)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/mentoredit', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(86): view('/Student/mentoredit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 15:50:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 15:50:30 --> ErrorException: Undefined array key "collegeid"
+[Method: GET, Route: student/mentoredit/1]
+in APPPATH\Views\Student\mentoredit.php on line 433.
+ 1 APPPATH\Views\Student\mentoredit.php(433): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "collegeid"', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php', 433)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/mentoredit', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(86): view('/Student/mentoredit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 15:53:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 15:53:53 --> ErrorException: Undefined array key "collegeid"
+[Method: GET, Route: student/mentoredit/1]
+in APPPATH\Views\Student\mentoredit.php on line 433.
+ 1 APPPATH\Views\Student\mentoredit.php(433): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "collegeid"', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php', 433)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/mentoredit', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(86): view('/Student/mentoredit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 15:54:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:05:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:10:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 16:10:22 --> ErrorException: Undefined variable $date
+[Method: GET, Route: student/mentoredit/1]
+in APPPATH\Views\Student\mentoredit.php on line 452.
+ 1 APPPATH\Views\Student\mentoredit.php(452): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $date', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php', 452)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/mentoredit', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(86): view('/Student/mentoredit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 16:10:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 16:10:54 --> ErrorException: Undefined array key "$mentorname"
+[Method: GET, Route: student/mentoredit/1]
+in APPPATH\Views\Student\mentoredit.php on line 456.
+ 1 APPPATH\Views\Student\mentoredit.php(456): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "$mentorname"', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php', 456)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Student\\mentoredit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/mentoredit', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(86): view('/Student/mentoredit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 16:11:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:12:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:18:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:18:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:19:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:20:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:25:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:25:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:25:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:25:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:25:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:26:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:26:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:28:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:29:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:29:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:33:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 16:33:57 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+[Method: POST, Route: student/mentorupdate]
+in SYSTEMPATH\Model.php on line 456.
+ 1 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\MentorMaster.php(114): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->update()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-20 16:35:21 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+[Method: POST, Route: student/mentorupdate]
+in SYSTEMPATH\Model.php on line 456.
+ 1 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\MentorMaster.php(109): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->update()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-20 16:36:21 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+[Method: POST, Route: student/mentorupdate]
+in SYSTEMPATH\Model.php on line 456.
+ 1 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\MentorMaster.php(109): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->update()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-20 16:39:11 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+[Method: POST, Route: student/mentorupdate]
+in SYSTEMPATH\Model.php on line 456.
+ 1 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\MentorMaster.php(109): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->update()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 16:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:39:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:39:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:39:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:40:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:41:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:44:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:44:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:44:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:44:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 16:54:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:01:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:07:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:07:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:07:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:08:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:09:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:16:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:16:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:16:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:17:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:17:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:17:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:18:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:18:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:21:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 18:24:47 --> ErrorException: Undefined array key "collegeid"
+[Method: GET, Route: Admin/Mentor/mentorList]
+in APPPATH\Views\Admin\Mentor\mentorList.php on line 21.
+ 1 APPPATH\Views\Admin\Mentor\mentorList.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "collegeid"', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Mentor\\mentorList.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Mentor\\mentorList.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Mentor/mentorList', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(132): view('/Admin/Mentor/mentorList', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->alist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 18:25:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 18:25:22 --> ErrorException: Undefined array key "collegeid"
+[Method: GET, Route: Admin/Mentor/mentorList]
+in APPPATH\Views\Admin\Mentor\mentorList.php on line 21.
+ 1 APPPATH\Views\Admin\Mentor\mentorList.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "collegeid"', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Mentor\\mentorList.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Mentor\\mentorList.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Mentor/mentorList', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(132): view('/Admin/Mentor/mentorList', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->alist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 18:30:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 18:30:02 --> ErrorException: Undefined array key "collegeid"
+[Method: GET, Route: Admin/Mentor/mentorList]
+in APPPATH\Views\Admin\Mentor\mentorList.php on line 21.
+ 1 APPPATH\Views\Admin\Mentor\mentorList.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "collegeid"', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Mentor\\mentorList.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Mentor\\mentorList.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Mentor/mentorList', [], true)
+ 5 APPPATH\Controllers\MentorMaster.php(132): view('/Admin/Mentor/mentorList', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->alist()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 18:32:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:33:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:37:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:40:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:42:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:42:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:42:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:44:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 18:46:09 --> ParseError: syntax error, unexpected token "->"
+[Method: GET, Route: Student/mentorlist]
+in APPPATH\Controllers\MentorMaster.php on line 68.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Wolfox\\app\\Controllers\\MentorMaster.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MentorMaster')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MentorMaster')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\MentorMaster', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 18:46:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 18:46:22 --> Error: Object of type CodeIgniter\Session\Session is not callable
+[Method: GET, Route: Student/mentorlist]
+in APPPATH\Controllers\MentorMaster.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->list()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 18:47:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:47:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:50:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:50:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:50:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:50:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:51:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:51:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 18:51:52 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: student/mentoredit/4]
+in APPPATH\Views\Student\mentoredit.php on line 435.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/mentoredit', [], true)
+ 4 APPPATH\Controllers\MentorMaster.php(87): view('/Student/mentoredit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->edit('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 18:52:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 18:52:35 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: student/mentoredit/4]
+in APPPATH\Views\Student\mentoredit.php on line 435.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/mentoredit', [], true)
+ 4 APPPATH\Controllers\MentorMaster.php(87): view('/Student/mentoredit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->edit('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 18:53:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-20 18:53:34 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: student/mentoredit/4]
+in APPPATH\Views\Student\mentoredit.php on line 435.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Student/mentoredit', [], true)
+ 4 APPPATH\Controllers\MentorMaster.php(87): view('/Student/mentoredit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MentorMaster->edit('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MentorMaster))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-20 18:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:59:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:59:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:59:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 18:59:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 19:00:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 19:00:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 19:00:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-20 19:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

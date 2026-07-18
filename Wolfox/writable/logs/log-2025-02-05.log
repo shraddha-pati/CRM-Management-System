@@ -1,0 +1,200 @@
+CRITICAL - 2025-02-05 08:58:48 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "/Admin/Inquiry/inquiry.php"
+[Method: GET, Route: Admin/Inquiry/add]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/Admin/Inquiry/inquiry.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Inquiry/inquiry', [], true)
+ 3 APPPATH\Controllers\InquiryMaster.php(11): view('/Admin/Inquiry/inquiry')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\InquiryMaster->add()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InquiryMaster))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-05 10:48:17 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "base_url("
+[Method: GET, Route: Admin/Inquiry/base_url%28]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('Admin/Inquiry/base_url(')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('Admin/Inquiry/base_url(')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-05 11:19:17 --> ErrorException: Undefined variable $SrudentData
+[Method: GET, Route: Admin/Admission/Admit/2]
+in APPPATH\Views\Admin\Admission\admit.php on line 75.
+ 1 APPPATH\Views\Admin\Admission\admit.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $SrudentData', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\admit.php', 75)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\admit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/admit', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(214): view('/Admin/Admission/admit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->admit()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-05 11:19:46 --> ErrorException: Undefined array key "WhatsappNumber"
+[Method: GET, Route: Admin/Admission/Admit/2]
+in APPPATH\Views\Admin\Admission\admit.php on line 75.
+ 1 APPPATH\Views\Admin\Admission\admit.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "WhatsappNumber"', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\admit.php', 75)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\admit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/admit', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(214): view('/Admin/Admission/admit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->admit()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-05 11:22:15 --> ErrorException: Undefined array key "WhatsappNumber"
+[Method: GET, Route: Admin/Admission/Admit/2]
+in APPPATH\Views\Admin\Admission\admit.php on line 79.
+ 1 APPPATH\Views\Admin\Admission\admit.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "WhatsappNumber"', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\admit.php', 79)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\admit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/admit', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(216): view('/Admin/Admission/admit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->admit()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-05 11:23:33 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: Admin/Admission/Admit/2]
+in APPPATH\Views\Admin\Admission\admit.php on line 79.
+ 1 APPPATH\Views\Admin\Admission\admit.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\admit.php', 79)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\admit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/admit', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(215): view('/Admin/Admission/admit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->admit()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-05 11:24:03 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: Admin/Admission/Admit/2]
+in APPPATH\Views\Admin\Admission\admit.php on line 79.
+ 1 APPPATH\Views\Admin\Admission\admit.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\admit.php', 79)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\Wolfox\\app\\Views\\Admin\\Admission\\admit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/admit', [], true)
+ 5 APPPATH\Controllers\AdmissionMaster.php(215): view('/Admin/Admission/admit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->admit()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-05 12:02:04 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: Admin/Admission/Save]
+in SYSTEMPATH\BaseModel.php on line 1011.
+ 1 SYSTEMPATH\BaseModel.php(1011): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update(null, [])
+ 3 APPPATH\Controllers\AdmissionMaster.php(82): CodeIgniter\Model->update()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->save()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-05 12:04:03 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: Admin/Admission/Save]
+in SYSTEMPATH\BaseModel.php on line 1011.
+ 1 SYSTEMPATH\BaseModel.php(1011): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\AdmissionMaster.php(82): CodeIgniter\Model->update('8529637410', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->save()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-05 12:04:27 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: Admin/Admission/Save]
+in SYSTEMPATH\BaseModel.php on line 1011.
+ 1 SYSTEMPATH\BaseModel.php(1011): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\AdmissionMaster.php(82): CodeIgniter\Model->update('8529637410', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->save()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-05 12:04:50 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: Admin/Admission/Save]
+in SYSTEMPATH\BaseModel.php on line 1011.
+ 1 SYSTEMPATH\BaseModel.php(1011): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\AdmissionMaster.php(82): CodeIgniter\Model->update('8529637410', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->save()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-05 12:08:48 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: Admin/Admission/Save]
+in SYSTEMPATH\BaseModel.php on line 1011.
+ 1 SYSTEMPATH\BaseModel.php(1011): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update(null, [])
+ 3 APPPATH\Controllers\AdmissionMaster.php(86): CodeIgniter\Model->update()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->save()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-05 12:11:38 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: Admin/Admission/Save]
+in SYSTEMPATH\BaseModel.php on line 1011.
+ 1 SYSTEMPATH\BaseModel.php(1011): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\AdmissionMaster.php(88): CodeIgniter\Model->update('8529637410', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->save()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-05 12:11:59 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: Admin/Admission/Save]
+in SYSTEMPATH\BaseModel.php on line 1011.
+ 1 SYSTEMPATH\BaseModel.php(1011): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\AdmissionMaster.php(88): CodeIgniter\Model->update('8529637410', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->save()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-05 12:13:49 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: Admin/Admission/Save]
+in SYSTEMPATH\BaseModel.php on line 1011.
+ 1 SYSTEMPATH\BaseModel.php(1011): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\AdmissionMaster.php(88): CodeIgniter\Model->update('8529637410', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->save()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-05 12:19:05 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: Admin/Admission/Save]
+in SYSTEMPATH\BaseModel.php on line 1011.
+ 1 SYSTEMPATH\BaseModel.php(1011): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\AdmissionMaster.php(88): CodeIgniter\Model->update('8529637410', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->save()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

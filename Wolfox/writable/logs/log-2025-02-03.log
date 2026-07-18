@@ -1,0 +1,12 @@
+CRITICAL - 2025-02-03 16:30:21 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "/Admin/Admission/form.php"
+[Method: GET, Route: Admin/Admission/Form]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/Admin/Admission/form.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/Admin/Admission/form', [], true)
+ 3 APPPATH\Controllers\AdmissionMaster.php(9): view('/Admin/Admission/form')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdmissionMaster->add()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdmissionMaster))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
